@@ -1,4 +1,4 @@
-# SentimentAnalysis_CoreNLP
+# Sentiment Analysis using CoreNLP in Java
 
 Java project that contains static methods that can be called from Snowpark for performing sentiment analysis on text using [CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
 
