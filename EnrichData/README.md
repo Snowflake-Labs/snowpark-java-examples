@@ -1,6 +1,6 @@
 # EnrichData
 
-Java project that contains static methods that can be called from Snowpark for enriching web logs to decode HTTP request URL, extract product name from request URL, get country and city info from client IP using [GeoLite](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data?lang=en).
+Java project that contains methods that can be created as UDFs for enriching web logs to decode HTTP request URL, extract product name from request URL, get country and city info from client IP using [GeoLite](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data?lang=en).
 
 
 ## Sample Web Logs
